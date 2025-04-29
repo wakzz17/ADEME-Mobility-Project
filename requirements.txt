@@ -1,0 +1,9 @@
+Faker
+IPython
+copy
+ipywidgets
+matplotlib
+networkx
+numpy
+pandas
+pulp
