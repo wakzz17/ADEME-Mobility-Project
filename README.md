@@ -88,9 +88,6 @@ pip install -r requirements.txt  # ou installez individuellement
 
 ---
 
-## 📜 Licence
-Distribué sous licence **MIT** — voir le fichier `LICENSE` (à créer si nécessaire).
-
 ## 👩‍💻 Auteurs
 *WB - SL - AT - FC*  
 CESI — 2025
